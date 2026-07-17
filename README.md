@@ -16,6 +16,7 @@ I am an **Information Systems Engineering student** with a strong focus on **Dev
 
 - 🏅 **GitHub Foundations Certified** – GitHub Certification Program (2025)
 - ☁️ **AWS Cloud Foundations** – Technical Training (2025)
+- **NextGen University Summer Program for Cloud&DevOps** - Training at EPAM Systems (2026)
 
 ---
 
@@ -33,19 +34,19 @@ I am an **Information Systems Engineering student** with a strong focus on **Dev
 ## 📁 Highlighted Projects & Experience
 
 ### ♾️ DevOps & Systems Administration
-- **DevOps Engineer | CSI PRO** *(Jan 2025 - Nov 2026)*
+- **DevOps Engineer | CSI PRO**
   - Designed and maintained continuous integration and continuous deployment (CI/CD) pipelines using **Docker** for environment management and **GitHub Actions** for automating builds, tests, and deployments.
-- **Systems Administrator | CSI PRO** *(Feb 2025 - Jun 2025)*
+- **Systems Administrator | CSI PRO**
   - Managed **Linux-based servers**, configuring core network services (**DNS, DHCP, FTP, SSH**) to ensure high uptime, system security, and stable connectivity via routine maintenance and monitoring.
 
 ### 💻 Software & Infrastructure Development
-- **ASP.NET Veterinary System** *(Oct 2025 - Nov 2025)*
+- **ASP.NET Veterinary System**
   - Developed a full-stack web application handling the frontend (HTML, CSS, JS), backend business logic (controllers and services), input validation, and database management with **Microsoft SQL Server**.
-- **IoT Remote Monitoring System** *(Oct 2023 - Nov 2023)*
+- **IoT Remote Monitoring System**
   - Built an IoT application using **Spring Boot** and **Arduino** to monitor and visualize real-time data from proximity and humidity sensors, using **MySQL** for historical log storage.
-- **IT Infrastructure Administration Project** *(May 2022 - Jun 2022)*
+- **IT Infrastructure Administration Project**
   - Designed and implemented a complete network infrastructure solution using **Windows Server**, managing **Samba, Active Directory, and Group Policies** to secure corporate data and system integrity.
-- **Java BreakOut Game** *(May 2023 - Jun 2023)*
+- **Java BreakOut Game**
   - Programmed a desktop version of the classic BreakOut game in **Java**, applying strong **Object-Oriented Programming (OOP)** principles to model game components.
 
 ---
