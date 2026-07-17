@@ -16,7 +16,7 @@ I am an **Information Systems Engineering student** with a strong focus on **Dev
 
 - 🏅 **GitHub Foundations Certified** – GitHub Certification Program (2025)
 - ☁️ **AWS Cloud Foundations** – Technical Training (2025)
-- **NextGen University Summer Program for Cloud&DevOps** - Training at EPAM Systems (2026)
+- 🎓 **NextGen University Summer Program for Cloud&DevOps** - Training at EPAM Systems (2026)
 
 ---
 
@@ -46,7 +46,11 @@ I am an **Information Systems Engineering student** with a strong focus on **Dev
   - Built an IoT application using **Spring Boot** and **Arduino** to monitor and visualize real-time data from proximity and humidity sensors, using **MySQL** for historical log storage.
 - **IT Infrastructure Administration Project**
   - Designed and implemented a complete network infrastructure solution using **Windows Server**, managing **Samba, Active Directory, and Group Policies** to secure corporate data and system integrity.
-- **Java BreakOut Game**
-  - Programmed a desktop version of the classic BreakOut game in **Java**, applying strong **Object-Oriented Programming (OOP)** principles to model game components.
-
+- **Cinetopia Android App**
+  - Developed a native Android application in **Kotlin** using **MVVM architecture**, featuring real-time ticket purchasing, seat selection, a mobile concession store, and a comprehensive loyalty rewards system.
+  - Integrated **Firebase Authentication** for secure login, **Firestore** for real-time order and catalog management, and **FCM** for push notifications.
+- **Mokkasoft Desktop Application**
+  - Contributed as a Frontend Developer building reusable UI components, core views, and application layouts.
+  - Developed using **React**, **TypeScript**, and **Vite**, ensuring type safety, modular structures, and fast development builds.
+  - Leveraged **Electron** to deliver a cross-platform desktop application environment, styling the interfaces with **Tailwind CSS**.
 ---
